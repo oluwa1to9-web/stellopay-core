@@ -4,7 +4,6 @@
   "contracts": {
     "multisig": {
       "size_bytes": 49486,
-      "sha256": "sha256:82241291de8ca36d0b99a2047fa517a9b35f47d2f40a5418453a2940c91c54bf",
       "captured_at": "2026-09-25"
     },
     "price_oracle": {
